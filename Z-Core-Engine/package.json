@@ -1,0 +1,15 @@
+{
+  "name": "z-core-engine",
+  "private": true,
+  "scripts": {
+    "build": "pnpm -r build",
+    "lint": "pnpm -r lint",
+    "test": "pnpm -r test",
+    "dev": "pnpm -r dev"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3.3.3",
+    "@typescript-eslint/eslint-plugin": "^8.53.0",
+    "@typescript-eslint/parser": "^8.53.0"
+  }
+}
