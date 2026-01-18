@@ -137,5 +137,5 @@ This project showcases my ability to build enterprise-level systems from scratch
 ## 📫 Contact
 
 Feel free to connect:  
-📧 email@example.com  
-🔗 LinkedIn: linkedin.com/in/yourname
+📧 mmsa155j3@gmail.com 
+🔗 LinkedIn: https://www.linkedin.com/in/muhammad-salman-amir-4a2656254/
